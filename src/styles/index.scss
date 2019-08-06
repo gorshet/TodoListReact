@@ -1,13 +1,27 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
-/* 
+/*
 
     You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
+
+
+    ...Or you can use the import command to include
     other sylesheets into your bunde as well, e.j:
-    
+
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+.todoListMain{
+    text-align: center;
+}
+
+.header{
+    color: #EFD7D8;
+    font-size: 6em;
+    display: inline-block;
+}
+input{
+    width: 30em;
+}
