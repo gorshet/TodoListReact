@@ -54,7 +54,7 @@ export class List extends React.Component {
 										<button
 											onClick={() => removeItem(index)}
 											className="btn btn-danger">
-											                                            X
+											   x
 										</button>
 									</span>
 								</li>
